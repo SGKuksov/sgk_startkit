@@ -1,0 +1,56 @@
+{
+  "name": "sgk_start_kit",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "author": "sgkuksov",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SGKuksov/sgk_start_kit.git"
+  },
+  "devDependencies": {
+    "autoprefixer": "^8.0.0",
+    "browser-sync": "^2.23.6",
+    "css-mqpacker": "^6.0.2",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-cheerio": "^0.6.3",
+    "gulp-cleancss": "^0.2.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-html-beautify": "^1.0.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sequence": "^1.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-svgmin": "^1.2.4",
+    "gulp-svgstore": "^6.1.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-wait": "^0.0.2",
+    "gulp.spritesmith": "^6.9.0",
+    "merge-stream": "^1.0.1",
+    "mkdirp": "^0.5.1",
+    "postcss-inline-svg": "^3.1.1",
+    "postcss-object-fit-images": "^1.1.2",
+    "postcss-svgo": "^4.0.0",
+    "ttf2woff": "^2.0.1",
+    "ttf2woff2": "^2.0.3",
+    "vinyl-buffer": "^1.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "object-fit-images": "^3.2.3",
+    "svg4everybody": "^2.1.9"
+  }
+}
